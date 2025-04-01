@@ -41,7 +41,8 @@ This Power BI dashboard provides a comprehensive analysis of Virat Kohli’s cri
 🏏 **Format-wise breakdown of total runs**  
 🌍 **Top opponents based on runs scored** 
 
-![image](https://github.com/user-attachments/assets/36058b63-5b4e-45ec-958f-58928ecb7df2)
+![image](https://github.com/user-attachments/assets/01365e2a-7be7-47e7-bf37-b1778dc3c141)
+
  
 
 ---
